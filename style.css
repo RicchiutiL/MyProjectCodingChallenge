@@ -1,0 +1,72 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+
+.conteiner{
+  width: 1200px;
+  margin: 50px auto;
+  text-align: center;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 15px;
+  padding: 50px 40px;
+}
+
+.logo{
+  width: 230px;
+}
+
+.logo-text{
+  font-size: 35px;
+  text-align:center;
+  color: #00FF00;
+  font-family: Helvetica, Arial, sans-serif;
+  font-style: normal;
+}
+
+
+nav{
+  background-color: #00FF00;
+  padding: 15px;
+}
+
+section {
+  padding: 20px 0;
+}
+
+.row{
+  text-align: left;
+  color: white;
+  font-size: 20px;
+}
+
+
+
+.vuoto{
+  background-color: yellow;
+  height: 30px;
+  width: 300px;
+  border-radius: 5px;
+}
+
+.vuoto1{
+  background-color:#00FF00 ;
+  height: 30px;
+  width: 600px;
+  border-radius: 5px;
+}
+
+.vuoto2{
+  background-color:red ;
+  height: 30px;
+  width: 200px;
+  border-radius: 5px;
+}
+
+.bolder{
+  font-weight: bolder;
+  font-size: 30px;
+}
